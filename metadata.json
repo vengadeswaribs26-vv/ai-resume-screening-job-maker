@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Screener & Job Matcher",
+  "description": "AI-based resume screening, NLP skill extraction, and intelligent job recommendation system for recruiters and candidates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
